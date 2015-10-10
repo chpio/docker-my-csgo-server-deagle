@@ -4,6 +4,8 @@
 			"gameModes" {
 				"casual" {
 					"maxplayers" "10"
+					"exec" {
+					}
 				}
 			}
 		}
